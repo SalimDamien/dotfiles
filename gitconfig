@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = salim.damien.lebihan@gmail.com
+	name = Salim Damien LE BIHAN
